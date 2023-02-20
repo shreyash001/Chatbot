@@ -1,0 +1,28 @@
+.home-main-container{
+    display: flex;
+    background-color: #282c34;
+    /* flex-flow: row wrap; */
+}
+
+.menu-bar{
+    /* background-color: red; */
+    /* position: absolute; */
+    /* top:0;bottom: 0;right: 0;left: 0; */
+    border: 1px solid white;
+    width: 300px;
+    color: white;
+    
+}
+
+.chatbot-side{
+    /* background-color: blue;
+    position: relative;
+    top:0;bottom: 0;right: 0;left: 0;
+    */
+    /* position: absolute; */
+    flex: 1; 
+    /* border: 1px solid white; */
+    color: black;
+    background-color: lightblue;
+
+}
